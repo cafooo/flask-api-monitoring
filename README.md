@@ -2,7 +2,7 @@
 This repository offers a simple API for monitoring the server.
 
 ## Install
-Copy files into folder and type `bash monitoring.sh install-systemd`.
+Copy files into folder and type `bash monitoring.sh install-systemd` to install and run API.
 
 The script will automatically create a virtual environment, install libraries, and run the systemd-service.
 
