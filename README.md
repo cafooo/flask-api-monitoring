@@ -1,5 +1,5 @@
 # flask-api-monitoring
-This repository offers an api for monitoring the server.
+This repository offers a simple API for monitoring the server.
 
 ## Install
 Copy files into folder and type `bash monitoring.sh install-systemd`.
